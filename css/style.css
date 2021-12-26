@@ -39,6 +39,10 @@ input::placeholder {
   opacity: 60%;
 }
 
+h1 {
+  color: white;
+}
+
 .hidden {
   display: none;
 }
