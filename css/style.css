@@ -73,6 +73,15 @@ h1 {
   height: 80%;
 }
 
+#todo-list {
+  color: white;
+}
+button {
+  background: none;
+  border: none;
+  color: white;
+}
+
 #quote {
   display: flex;
   height: 10%;
@@ -80,4 +89,8 @@ h1 {
   align-items: center;
   flex-direction: column;
   margin: 15px;
+}
+li > span {
+  color: white;
+  opacity: 90%;
 }
